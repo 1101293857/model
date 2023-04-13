@@ -49,5 +49,5 @@ def returnGraph(links, node):
     return graph
 
 
-link, n = fat_tree(4)
+link, n = fat_tree(20)
 print(returnGraph(link, n))
